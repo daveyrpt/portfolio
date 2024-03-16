@@ -5,6 +5,9 @@ import Home from './components/home/Home'
 import About from './components/about/About'
 import Skills from './components/skills/Skills'
 import Qualification from './components/qualification/Qualification'
+import Contact from './components/contact/Contact'
+import ScrollUp from './components/scrollup/ScrollUp'
+import Work from './components/work/Work'
 
 function App() {
 	return (
@@ -14,9 +17,13 @@ function App() {
 			<main className='main'>
 				<Home />
 				<About />
+				<Work />
 				<Skills />
 				<Qualification />
+				<Contact />
 			</main>
+
+			<ScrollUp />
 		</>
 		/*     <div className="App">
 			  <header className="App-header">
