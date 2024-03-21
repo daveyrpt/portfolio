@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
-import AboutImg from "../../assets/about.jpg";
-import CV from "../../assets/John-Cv.pdf";
+import AboutImg from "../../assets/profile_1.jpg";
+import CV from "../../assets/davey_resume.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -17,10 +17,10 @@ const About = () => {
                     <Info />
 
                     <p className="about__description">
-                        Experienced software developer passionate about crafting robust solutions. Skilled in [list relevant technologies] with a focus on [mention specific interests, e.g., backend development]. Strong believer in best practices and effective communication. Outside of coding, I enjoy [mention hobbies/interests]. Excited about tackling new challenges and delivering impactful results.
+                        Experienced software developer passionate about creative solutions, focus at secure, user-centric websites. Enjoys talking and reading. Thrives on new challenges, delivering impactful results.
                     </p>
 
-                    <a download="" href={CV} className="button button--flex">Download CV</a>
+                    <a download="Davey Rupert Resume" href={CV} className="button button--flex">Download Resume</a>
                 </div>
             </div>
         </section>
