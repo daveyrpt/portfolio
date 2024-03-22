@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolioReact/static/css/main.b5a17c82.css",
-    "main.js": "/portfolioReact/static/js/main.420c5d2b.js",
-    "static/js/453.1407b060.chunk.js": "/portfolioReact/static/js/453.1407b060.chunk.js",
-    "static/media/profile_2.jpg": "/portfolioReact/static/media/profile_2.d56ce85d285da39432a7.jpg",
-    "static/media/profile_1.jpg": "/portfolioReact/static/media/profile_1.26365fb64b2dc172b0da.jpg",
-    "static/media/aducktive.png": "/portfolioReact/static/media/aducktive.da3e7ac3010995569320.png",
-    "static/media/davey_resume.pdf": "/portfolioReact/static/media/davey_resume.ed8b678e19b40b26e254.pdf",
-    "static/media/sib.png": "/portfolioReact/static/media/sib.f99c77452c4bca01e000.png",
-    "static/media/investpahang.png": "/portfolioReact/static/media/investpahang.918d90617c0ca555dfb0.png",
-    "static/media/work2.jpg": "/portfolioReact/static/media/work2.e52a0c2981a6c11ba468.jpg",
-    "static/media/work4.jpg": "/portfolioReact/static/media/work4.aee985961b648f4df1f2.jpg",
-    "static/media/work5.jpg": "/portfolioReact/static/media/work5.094ec4a2224db8908873.jpg",
-    "static/media/work1.jpg": "/portfolioReact/static/media/work1.321b4ae3bf404acdfdc6.jpg",
-    "static/media/work3.jpg": "/portfolioReact/static/media/work3.135e9065694bc13dc31d.jpg",
-    "static/media/logo.svg": "/portfolioReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/portfolioReact/index.html",
-    "main.b5a17c82.css.map": "/portfolioReact/static/css/main.b5a17c82.css.map",
-    "main.420c5d2b.js.map": "/portfolioReact/static/js/main.420c5d2b.js.map",
-    "453.1407b060.chunk.js.map": "/portfolioReact/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.77d2461e.css",
+    "main.js": "/portfolio/static/js/main.4383ca46.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/profile_2.jpg": "/portfolio/static/media/profile_2.d56ce85d285da39432a7.jpg",
+    "static/media/profile_1.jpg": "/portfolio/static/media/profile_1.26365fb64b2dc172b0da.jpg",
+    "static/media/aducktive.png": "/portfolio/static/media/aducktive.da3e7ac3010995569320.png",
+    "static/media/davey_resume.pdf": "/portfolio/static/media/davey_resume.ed8b678e19b40b26e254.pdf",
+    "static/media/sib.png": "/portfolio/static/media/sib.f99c77452c4bca01e000.png",
+    "static/media/investpahang.png": "/portfolio/static/media/investpahang.918d90617c0ca555dfb0.png",
+    "static/media/work2.jpg": "/portfolio/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/work4.jpg": "/portfolio/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/portfolio/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/portfolio/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/portfolio/static/media/work3.135e9065694bc13dc31d.jpg",
+    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portfolio/index.html",
+    "main.77d2461e.css.map": "/portfolio/static/css/main.77d2461e.css.map",
+    "main.4383ca46.js.map": "/portfolio/static/js/main.4383ca46.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5a17c82.css",
-    "static/js/main.420c5d2b.js"
+    "static/css/main.77d2461e.css",
+    "static/js/main.4383ca46.js"
   ]
 }
