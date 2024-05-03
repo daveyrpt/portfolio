@@ -3,17 +3,14 @@ import React from "react";
 const Social = () => {
     return (
         <div className="home__social">
-            <a href="" className="home__social-icon" target="">
+            <a href="https://www.linkedin.com/in/davey-rupert/" className="home__social-icon" target="">
                 <i className="uil uil-linkedin-alt"></i>
             </a>
 
-            <a href="" className="home__social-icon" target="">
+            <a href="https://github.com/daveyrpt" className="home__social-icon" target="">
                 <i className="uil uil-github-alt"></i>
             </a>
 
-            <a href="" className="home__social-icon" target="">
-                <i className="uil uil-dribbble"></i>
-            </a>
         </div>  
     )
 }

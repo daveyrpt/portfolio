@@ -7,7 +7,7 @@ import Info from "./Info";
 const About = () => {
     return (
         <section className="about section" id="about">
-            <h2 className="section__title">About ME</h2>
+            <h2 className="section__title">About Me</h2>
             <span className="section__subtitle">My introduction</span>
 
             <div className="about__container container grid">
@@ -17,7 +17,7 @@ const About = () => {
                     <Info />
 
                     <p className="about__description">
-                        Experienced software developer passionate about creative solutions, focus at secure, user-centric websites. Enjoys talking and reading. Thrives on new challenges, delivering impactful results.
+                        Experienced software developer passionate about creative solutions, focus on secure, user-centric websites. Enjoys chatting and reading. Thrives on new challenges, delivering impactful results.
                     </p>
 
                     <a download="Davey Rupert Resume" href={CV} className="button button--flex">Download Resume</a>

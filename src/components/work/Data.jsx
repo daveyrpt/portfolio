@@ -15,7 +15,7 @@ export const projectsData = [
         image: Aducktive,
         title: 'Aducktive',
         info: '',
-        category: 'web',
+        category: 'Company',
         url: 'https://aducktive.com/'
     },
     {
@@ -23,7 +23,7 @@ export const projectsData = [
         image: Investpahang,
         title: 'Investpahang',
         info: '',
-        category: 'web',
+        category: 'Company',
         url: 'https://investpahang.com/'
     },
     {
@@ -31,20 +31,20 @@ export const projectsData = [
         image: Work3,
         title: 'E-Hartanah',
         info: '',
-        category: 'web',
+        category: 'Company',
     },
     {
         id: 4,
         image: Work4,
         title: 'QMS',
-        category: 'web',
+        category: 'Company',
     },
     {
         id: 5,
         image: SIB,
         title: 'Church',
         info: '',
-        category: 'web',
+        category: 'Freelance',
         url: 'http://sibpekanmanggatal.mywebcommunity.org/',
     },
     {
@@ -52,7 +52,7 @@ export const projectsData = [
         image: Vault,
         title: 'Vault',
         info: '',
-        category: 'web',
+        category: 'Personal',
         url: 'https://superb-creponne-d64c88.netlify.app/',
     },
     {
@@ -60,29 +60,29 @@ export const projectsData = [
         image: Work5,
         title: 'Water Quality Monitor System',
         info: '',
-        category: 'web',
+        category: 'Personal',
     },
     {
         id: 8,
         image: GoTravel,
         title: 'GoTravel',
         info: '',
-        category: 'web',
+        category: 'Personal',
         url: 'https://daveyrpt.github.io/GoTravel/',
     },
 ];
 
 export const projectsNav = [
-    {
+/*     {
         name: 'all',
+    }, */
+    {
+        name: 'Company',
     },
     {
-        name: 'web',
+        name: 'Freelance',
     },
     {
-        name: 'app',
-    },
-    {
-        name: 'design',
+        name: 'Personal',
     },
 ]
