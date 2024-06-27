@@ -3,6 +3,7 @@ import Work2 from "../../assets/work2.jpg";
 import Work3 from "../../assets/work3.jpg";
 import Work4 from "../../assets/work4.jpg";
 import Work5 from "../../assets/work5.jpg";
+import BorneoInsurance from "../../assets/borneo-insurance-logo.png";
 import Aducktive from "../../assets/aducktive.png";
 import Investpahang from "../../assets/investpahang.png";
 import SIB from "../../assets/sib.png";
@@ -45,7 +46,7 @@ export const projectsData = [
         title: 'Church',
         info: '',
         category: 'Freelance',
-        url: 'http://sibpekanmanggatal.mywebcommunity.org/',
+        url: 'https://sibpm.com/',
     },
     {
         id: 6,
@@ -69,6 +70,14 @@ export const projectsData = [
         info: '',
         category: 'Personal',
         url: 'https://daveyrpt.github.io/GoTravel/',
+    },
+    {
+        id: 9,
+        image: BorneoInsurance,
+        title: 'Borneo Insurance',
+        info: '',
+        category: 'Freelance',
+        url: 'https://borneoinsurance.com/',
     },
 ];
 
