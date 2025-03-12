@@ -33,7 +33,7 @@ const Qualification = () => {
                                 <h3 className="qualification__title">Software Developer</h3>
                                 <span className="qualification__subtitle">Mirfalah Sdn Bhd</span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i> 2023 - 2024
+                                    <i className="uil uil-calendar-alt"></i> 2023 - Now
                                 </div>
                             </div>
 
