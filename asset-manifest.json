@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.27b60829.css",
-    "main.js": "/portfolio/static/js/main.c00b3bb5.js",
+    "main.js": "/portfolio/static/js/main.86b22f1d.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/gotravel.png": "/portfolio/static/media/gotravel.98b8546b671574808f0f.png",
     "static/media/profile_2.jpg": "/portfolio/static/media/profile_2.d56ce85d285da39432a7.jpg",
     "static/media/profile_1.jpg": "/portfolio/static/media/profile_1.26365fb64b2dc172b0da.jpg",
     "static/media/aducktive.png": "/portfolio/static/media/aducktive.da3e7ac3010995569320.png",
     "static/media/sib.png": "/portfolio/static/media/sib.f99c77452c4bca01e000.png",
-    "static/media/daveyRupertResume.pdf": "/portfolio/static/media/daveyRupertResume.a1e23a1a33e05e712727.pdf",
+    "static/media/daveyRupertResume.pdf": "/portfolio/static/media/daveyRupertResume.0333e8da84e28e0e52d1.pdf",
     "static/media/vault.png": "/portfolio/static/media/vault.edff9f1f75c5bdd7edf1.png",
     "static/media/investpahang.png": "/portfolio/static/media/investpahang.918d90617c0ca555dfb0.png",
     "static/media/borneo-insurance-logo.png": "/portfolio/static/media/borneo-insurance-logo.f25c1e1df0051aa10794.png",
@@ -20,11 +20,11 @@
     "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portfolio/index.html",
     "main.27b60829.css.map": "/portfolio/static/css/main.27b60829.css.map",
-    "main.c00b3bb5.js.map": "/portfolio/static/js/main.c00b3bb5.js.map",
+    "main.86b22f1d.js.map": "/portfolio/static/js/main.86b22f1d.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27b60829.css",
-    "static/js/main.c00b3bb5.js"
+    "static/js/main.86b22f1d.js"
   ]
 }
