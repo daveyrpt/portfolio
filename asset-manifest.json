@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.27b60829.css",
-    "main.js": "/portfolio/static/js/main.47ec61ae.js",
+    "main.css": "/portfolio/static/css/main.fa035c00.css",
+    "main.js": "/portfolio/static/js/main.622aeb0c.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/gotravel.png": "/portfolio/static/media/gotravel.98b8546b671574808f0f.png",
-    "static/media/profile_2.jpg": "/portfolio/static/media/profile_2.d56ce85d285da39432a7.jpg",
-    "static/media/profile_1.jpg": "/portfolio/static/media/profile_1.26365fb64b2dc172b0da.jpg",
+    "static/media/DaveyRupertPicture.jpeg": "/portfolio/static/media/DaveyRupertPicture.897c9454984a30b64333.jpeg",
     "static/media/aducktive.png": "/portfolio/static/media/aducktive.da3e7ac3010995569320.png",
     "static/media/sib.png": "/portfolio/static/media/sib.f99c77452c4bca01e000.png",
+    "static/media/DaveyRupertPicture2.jpeg": "/portfolio/static/media/DaveyRupertPicture2.a8c1bc18f7cc5b2a7528.jpeg",
     "static/media/daveyRupertResume.pdf": "/portfolio/static/media/daveyRupertResume.0333e8da84e28e0e52d1.pdf",
     "static/media/vault.png": "/portfolio/static/media/vault.edff9f1f75c5bdd7edf1.png",
     "static/media/investpahang.png": "/portfolio/static/media/investpahang.918d90617c0ca555dfb0.png",
@@ -19,12 +19,12 @@
     "static/media/work3.jpg": "/portfolio/static/media/work3.135e9065694bc13dc31d.jpg",
     "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portfolio/index.html",
-    "main.27b60829.css.map": "/portfolio/static/css/main.27b60829.css.map",
-    "main.47ec61ae.js.map": "/portfolio/static/js/main.47ec61ae.js.map",
+    "main.fa035c00.css.map": "/portfolio/static/css/main.fa035c00.css.map",
+    "main.622aeb0c.js.map": "/portfolio/static/js/main.622aeb0c.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.27b60829.css",
-    "static/js/main.47ec61ae.js"
+    "static/css/main.fa035c00.css",
+    "static/js/main.622aeb0c.js"
   ]
 }
